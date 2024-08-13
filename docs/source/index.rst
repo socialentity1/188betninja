@@ -1,22 +1,30 @@
-Welcome to Lumache's documentation!
+Nhà cái trực tuyến 188BET - 188bet.ninja
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`188BET <https://188bet.ninja/>`_ - 188bet.ninja là website chính thức đăng nhập 188BET với tỷ lệ cược cao nhất, đổi tiền mặt sớm, kết toán siêu tốc và xem hàng ngàn livestream cùng người đẹp với dạng trò chơi cá cược như: casino, thể thao, lô đề, đá gà,... .
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin website: 
 
-.. note::
+Website: https://188bet.ninja/
 
-   This project is under active development.
+SĐT: 0987318522
 
-Contents
---------
+Địa chỉ: 509/B1 Lý Thường Kiệt, Phường 9, Tân Bình, Hồ Chí Minh, Việt Nam
 
-.. toctree::
+Hashtag: #188bet #188betninja #nhacai188bet #188betcasino #link188bet
 
-   usage
-   api
+Các trang nội bộ:
+
+https://188bet.ninja/casino-188bet/ 
+
+https://188bet.ninja/da-ga-188bet/ 
+
+https://188bet.ninja/dai-ly-188bet/ 
+
+https://188bet.ninja/gioi-thieu-188bet/ 
+
+https://188bet.ninja/khuyen-mai-188bet/ 
+
+https://188bet.ninja/lo-de-188bet/ 
+
+https://188bet.ninja/the-thao-188bet/ 
